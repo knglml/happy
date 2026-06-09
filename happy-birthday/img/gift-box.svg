@@ -1,0 +1,19 @@
+<svg width="320" height="260" viewBox="0 0 320 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">生日礼物盒</title>
+  <desc id="desc">带蝴蝶结的彩色生日礼物盒插画</desc>
+  <rect width="320" height="260" rx="36" fill="#F0FDFA"/>
+  <ellipse cx="160" cy="218" rx="92" ry="16" fill="#99F6E4" opacity="0.75"/>
+  <rect x="82" y="111" width="156" height="98" rx="18" fill="#34D399"/>
+  <rect x="75" y="92" width="170" height="42" rx="16" fill="#10B981"/>
+  <rect x="146" y="92" width="29" height="117" fill="#FDE68A"/>
+  <rect x="75" y="108" width="170" height="18" fill="#6EE7B7" opacity="0.45"/>
+  <path d="M154 93C128 85 103 68 109 49C115 31 143 45 160 90" fill="#F9A8D4"/>
+  <path d="M166 93C192 85 217 68 211 49C205 31 177 45 160 90" fill="#F9A8D4"/>
+  <path d="M152 91C134 86 121 75 124 61C128 49 147 57 158 89" stroke="#BE185D" stroke-width="5" stroke-linecap="round"/>
+  <path d="M168 91C186 86 199 75 196 61C192 49 173 57 162 89" stroke="#BE185D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="54" cy="72" r="8" fill="#FDBA74"/>
+  <circle cx="270" cy="78" r="8" fill="#93C5FD"/>
+  <circle cx="266" cy="176" r="10" fill="#F9A8D4"/>
+  <path d="M48 171L58 176L48 181L43 191L38 181L28 176L38 171L43 161L48 171Z" fill="#A78BFA"/>
+  <path d="M272 126L282 131L272 136L267 146L262 136L252 131L262 126L267 116L272 126Z" fill="#F59E0B"/>
+</svg>

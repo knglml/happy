@@ -1,0 +1,15 @@
+<svg width="320" height="260" viewBox="0 0 320 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">生日祝福卡</title>
+  <desc id="desc">写着生日祝福的粉色卡片和小星星插画</desc>
+  <rect width="320" height="260" rx="36" fill="#FFFBEB"/>
+  <rect x="64" y="51" width="192" height="158" rx="24" fill="white" stroke="#FDBA74" stroke-width="6"/>
+  <path d="M89 91H221" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  <path d="M91 124H205" stroke="#FBBF24" stroke-width="7" stroke-linecap="round"/>
+  <path d="M91 153H218" stroke="#FBBF24" stroke-width="7" stroke-linecap="round"/>
+  <path d="M91 181H179" stroke="#FBBF24" stroke-width="7" stroke-linecap="round"/>
+  <path d="M158 29C162 42 171 49 184 52C171 56 162 64 158 77C154 64 145 56 132 52C145 49 154 42 158 29Z" fill="#F472B6"/>
+  <path d="M255 63L267 69L255 75L249 87L243 75L231 69L243 63L249 51L255 63Z" fill="#60A5FA"/>
+  <path d="M57 157L69 163L57 169L51 181L45 169L33 163L45 157L51 145L57 157Z" fill="#34D399"/>
+  <circle cx="53" cy="75" r="8" fill="#FDE68A"/>
+  <circle cx="274" cy="172" r="9" fill="#FCA5A5"/>
+</svg>

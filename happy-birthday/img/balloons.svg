@@ -1,0 +1,22 @@
+<svg width="320" height="260" viewBox="0 0 320 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">生日气球</title>
+  <desc id="desc">粉色、黄色和蓝色气球组成的生日装饰插画</desc>
+  <rect width="320" height="260" rx="36" fill="#FFF5FB"/>
+  <path d="M111 105C111 162 90 224 88 244" stroke="#FB7185" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 8"/>
+  <path d="M160 103C158 161 160 209 158 244" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 8"/>
+  <path d="M218 108C216 169 231 211 226 244" stroke="#FBBF24" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 8"/>
+  <ellipse cx="104" cy="78" rx="45" ry="56" fill="#FB7185"/>
+  <ellipse cx="155" cy="67" rx="48" ry="59" fill="#60A5FA"/>
+  <ellipse cx="214" cy="82" rx="43" ry="54" fill="#FBBF24"/>
+  <path d="M91 126L106 139L118 124" fill="#FB7185"/>
+  <path d="M140 121L157 136L171 120" fill="#60A5FA"/>
+  <path d="M201 128L216 141L228 126" fill="#FBBF24"/>
+  <ellipse cx="89" cy="53" rx="10" ry="18" fill="white" opacity="0.55" transform="rotate(24 89 53)"/>
+  <ellipse cx="137" cy="42" rx="11" ry="19" fill="white" opacity="0.55" transform="rotate(23 137 42)"/>
+  <ellipse cx="199" cy="59" rx="9" ry="17" fill="white" opacity="0.55" transform="rotate(24 199 59)"/>
+  <circle cx="43" cy="42" r="8" fill="#FDE68A"/>
+  <circle cx="275" cy="47" r="7" fill="#F9A8D4"/>
+  <circle cx="283" cy="183" r="9" fill="#BFDBFE"/>
+  <path d="M48 180L60 186L48 192L42 204L36 192L24 186L36 180L42 168L48 180Z" fill="#F472B6"/>
+  <path d="M275 126L285 131L275 136L270 146L265 136L255 131L265 126L270 116L275 126Z" fill="#38BDF8"/>
+</svg>
